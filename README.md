@@ -1,2 +1,3 @@
 # hexlet
-Отправили изменения с клона
+Отправили изменения с клонa
+sozdali izmeneniya v ubuntu
